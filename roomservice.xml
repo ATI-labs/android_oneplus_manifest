@@ -5,6 +5,7 @@
       <!-- blobs for Oplus device tree -->
       <project name="ATI-labs/android_device_oneplus_wly" path="device/oneplus/wly" remote="github" revision="rising" />
       <project name="ATI-labs/android_device_oneplus_sm8450-common" path="device/oneplus/sm8450-common" remote="github" revision="risng" />
+      <project name="ATI-labs/android_device_realme_ferrarri" path="device/realme/ferrarri" remote="github" revision="rising" />
 
       <!-- blobs for sm8450 kernel -->
       <project name="Machad3x/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="matrixx-rebase" />
@@ -14,6 +15,7 @@
       <!-- blobs for sm8450 vendor -->
       <project name="pjgowtham/proprietary_vendor_oneplus_wly" path="vendor/oneplus/wly" remote="gitlab" revision="lineage-21" />
       <project name="Machad3x/proprietary_vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="matrixx-rebase" />
+      <project name="pjgowtham/proprietary_vendor_realme_ferrarri" path="vendor/realme/ferrarri" remote="gitlab" revision="fourteen" />
 
       <!-- Oplus hardware -->
       <project name="ATI-labs/android_hardware_oplus" path="hardware/oplus" remote="github" revision="rising" />
