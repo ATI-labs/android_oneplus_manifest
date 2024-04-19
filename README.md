@@ -2,7 +2,7 @@ Installing Repos
 
         repo init -u https://github.com/Evolution-XYZ/manifest -b udc
 
-        git clone https://github.com/Arman-ATI/android_device_oneplus_manifest.git -b EvoX .repo/local_manifests/
+        git clone https://github.com/ATI-labs/android_device_oneplus_manifest.git -b EvoX .repo/local_manifests/
         
 sync repo
 
