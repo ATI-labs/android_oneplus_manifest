@@ -13,7 +13,7 @@
 
       <!-- blobs for sm8450 vendor -->
       <project name="pjgowtham/proprietary_vendor_oneplus_wly" path="vendor/oneplus/wly" remote="gitlab" revision="lineage-21" />
-      <project name="pjgowtham/proprietary_vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="gitlab" revision="fourteen" />
+      <project name="Machad3x/proprietary_vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="matrixx-rebase" />
 
       <!-- Oplus hardware -->
       <project name="ATI-labs/android_hardware_oplus" path="hardware/oplus" remote="github" revision="EvoX" />
@@ -22,5 +22,5 @@
       <project name="pjgowtham/android_vendor_extra" path="vendor/extra" remote="github" />
       <project name="luk1337/ih8sn" path="vendor/ih8sn" remote="github" revision="master" />
       <project name="chandu078/proprietary_vendor_oplus_camera" path="vendor/oplus/camera" revision="lineage-21" remote="gitlab" />
-      <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" revision="main" remote="github" />
+      <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" revision="v4a" remote="github" />
   </manifest>
