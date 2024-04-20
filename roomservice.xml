@@ -13,7 +13,7 @@
       <project name="Machad3x/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="matrixx-rebase" />
 
       <!-- blobs for sm8450 vendor -->
-      <project name="pjgowtham/proprietary_vendor_oneplus_wly" path="vendor/oneplus/wly" remote="gitlab" revision="lineage-21" />
+      <project name="Machad3x/proprietary_vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="matrixx-rebase" />
       <project name="Machad3x/proprietary_vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="matrixx-rebase" />
       <project name="pjgowtham/proprietary_vendor_realme_ferrarri" path="vendor/realme/ferrarri" remote="gitlab" revision="fourteen" />
 
