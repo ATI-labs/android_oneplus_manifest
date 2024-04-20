@@ -21,8 +21,8 @@
       <project name="ATI-labs/android_hardware_oplus" path="hardware/oplus" remote="github" revision="rising" />
 
       <!-- other blobs -->
-      <project name="pjgowtham/android_vendor_extra" path="vendor/extra" remote="github" />
+      <project name="pjgowtham/android_vendor_extra" path="vendor/extra" remote="github" revision="lineage-21.0" />
       <project name="luk1337/ih8sn" path="vendor/ih8sn" remote="github" revision="master" />
-      <project name="chandu078/proprietary_vendor_oplus_camera" path="vendor/oplus/camera" revision="lineage-21" remote="gitlab" />
-      <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" revision="v4a" remote="github" />
+      <project name="chandu078/proprietary_vendor_oplus_camera" path="vendor/oplus/camera" remote="gitlab" revision="lineage-21" />
+      <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="v4a" />
   </manifest>
