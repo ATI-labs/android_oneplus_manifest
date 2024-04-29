@@ -8,8 +8,14 @@ sync repo
 
         repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
-for op 10pro
+for oneplus 10pro
         
         . build/envsetup.sh
         riseup wly userdebug
+        rise b
+
+for realme gt2 pro
+        
+        . build/envsetup.sh
+        riseup ferrarri userdebug
         rise b
