@@ -2,7 +2,7 @@ Installing Repos
 
         repo init -u https://github.com/RisingTechOSS/android -b fourteen --git-lfs
 
-        git clone https://github.com/ATI-labs/android_device_oneplus_manifest.git -b rising .repo/local_manifests/
+        git clone https://github.com/ATI-labs/local-manifests.git -b rising .repo/local_manifests/
         
 sync repo
 
