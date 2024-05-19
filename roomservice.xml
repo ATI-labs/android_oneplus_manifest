@@ -4,26 +4,24 @@
 
       <!-- blobs for Oplus device tree -->
       <project name="ATI-labs/android_device_oneplus_wly" path="device/oneplus/wly" remote="github" revision="rising" />
-      <project name="ATI-labs/android_device_oneplus_sm8450-common" path="device/oneplus/sm8450-common" remote="github" revision="rising-new" />
+      <project name="ATI-labs/android_device_oneplus_sm8450-common" path="device/oneplus/sm8450-common" remote="github" revision="rising" />
       <project name="ATI-labs/android_device_realme_ferrarri" path="device/realme/ferrarri" remote="github" revision="rising" />
 
       <!-- blobs for sm8450 kernel -->
-      <project name="Machad3x/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="a14-testing" />
-      <project name="Machad3x/android_kernel_oneplus_sm8450-modules" path="kernel/oneplus/sm8450-modules" remote="github" revision="a14-testing" />
+      <project name="Machad3x/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="test" />
+      <project name="Machad3x/android_kernel_oneplus_sm8450-modules" path="kernel/oneplus/sm8450-modules" remote="github" revision="test" />
       <project name="Machad3x/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="matrixx-rebase" />
 
       <!-- blobs for sm8450 vendor -->
-      <project name="pjgowtham/proprietary_vendor_oneplus_wly" path="vendor/oneplus/wly" remote="gitlaab" revision="lineage-21" />
-      <project name="ATI-labs/vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="moto" />
-      <project name="pjgowtham/proprietary_vendor_realme_ferrarri" path="vendor/realme/ferrarri" remote="gitlaab" revision="fourteen" />
+      <project name="Machad3x/proprietary_vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="matrix-ooscam" />
+      <project name="Machad3x/vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="matrix-ooscam" />
+      <project name="Machad3x/proprietary_vendor_realme_ferrarri" path="vendor/realme/ferrarri" remote="gitlaab" revision="a14" />
 
       <!-- Oplus hardware -->
-      <project name="ATI-labs/android_hardware_oplus" path="hardware/oplus" remote="github" revision="rising" />
+      <project name="ATI-labs/android_hardware_oplus" path="hardware/oplus" remote="github" revision="bkp" />
 
       <!-- other blobs -->
-      <project name="pjgowtham/android_vendor_extra" path="vendor/extra" remote="github" revision="lineage-21.0" />
-      <project name="luk1337/ih8sn" path="vendor/ih8sn" remote="github" revision="master" />
-      <project name="armanati/vendor_oplus_camera" path="vendor/oplus/camera" remote="gitlaab" revision="lineage-21" />
+      <project name="crdroidandroid/proprietary_vendor_oneplus_camera" path="vendor/oplus/camera" remote="gitlaab" revision="14.0" />
       <project name="armanati/vendor_GoogleCamera" path="vendor/GoogleCamera" remote="gitlaab" revision="sg" />
       <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="v4a" />
   </manifest>
