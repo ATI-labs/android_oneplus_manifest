@@ -3,9 +3,9 @@
       <remote fetch="https://gitlab.com" name="gitlaab" />
 
       <!-- blobs for Oplus device tree -->
-      <project name="ATI-labs/android_device_oneplus_wly" path="device/oneplus/wly" remote="github" revision="rising" />
-      <project name="ATI-labs/android_device_oneplus_sm8450-common" path="device/oneplus/sm8450-common" remote="github" revision="rising" />
-      <project name="ATI-labs/android_device_realme_ferrarri" path="device/realme/ferrarri" remote="github" revision="rising" />
+      <project name="ATI-labs/android_device_oneplus_wly" path="device/oneplus/wly" remote="github" revision="everest" />
+      <project name="ATI-labs/android_device_oneplus_sm8450-common" path="device/oneplus/sm8450-common" remote="github" revision="everest" />
+      <project name="ATI-labs/android_device_realme_ferrarri" path="device/realme/ferrarri" remote="github" revision="everest" />
 
       <!-- blobs for sm8450 kernel -->
       <project name="Machad3x/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="test" />
