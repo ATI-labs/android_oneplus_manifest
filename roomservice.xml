@@ -18,7 +18,7 @@
       <project name="Machad3x/proprietary_vendor_realme_ferrarri" path="vendor/realme/ferrarri" remote="gitlaab" revision="a14" />
 
       <!-- Oplus hardware -->
-      <project name="ATI-labs/android_hardware_oplus" path="hardware/oplus" remote="github" revision="bkp" />
+      <project name="ATI-labs/android_hardware_oplus" path="hardware/oplus" remote="github" revision="rising" />
 
       <!-- other blobs -->
       <project name="crdroidandroid/proprietary_vendor_oneplus_camera" path="vendor/oneplus/camera" remote="gitlaab" revision="14.0" />
