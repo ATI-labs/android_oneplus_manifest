@@ -8,8 +8,8 @@
     
       <!-- blobs for sm8450 kernel -->
       <project name="Machad3x/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="a14" />
-      <project name="Machad3x/android_kernel_oneplus_sm8450-modules" path="kernel/oneplus/sm8450-modules" remote="github" revision="test" />
-      <project name="Machad3x/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="matrixx-rebase" />
+      <project name="Machad3x/android_kernel_oneplus_sm8450-modules" path="kernel/oneplus/sm8450-modules" remote="github" revision="a14" />
+      <project name="ATI-labs/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="lineage-21" />
 
       <!-- blobs for sm8450 vendor -->
       <project name="Machad3x/proprietary_vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="matrix-ooscam" />
