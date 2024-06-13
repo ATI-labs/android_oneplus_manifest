@@ -12,11 +12,11 @@
       <project name="ATI-labs/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="lineage-21" />
 
       <!-- blobs for sm8450 vendor -->
-      <project name="Machad3x/proprietary_vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="matrix-ooscam" />
-      <project name="Machad3x/vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="matrix-ooscam" />
+      <project name="ATI-labs/vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="oos-cam" />
+      <project name="Machad3x/proprietary_vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="a14-staging" />
     
       <!-- Oplus hardware -->
-      <project name="ATI-labs/hardware_oplus" path="hardware/oplus" remote="github" revision="bkp" />
+      <project name="ATI-labs/hardware_oplus" path="hardware/oplus" remote="github" revision="rising" />
 
       <!-- other blobs -->
       <project name="crdroidandroid/proprietary_vendor_oneplus_camera" path="vendor/oneplus/camera" remote="gitlaab" revision="14.0" />
