@@ -8,12 +8,12 @@
       <project name="ATI-labs/android_device_realme_ferrarri" path="device/realme/ferrarri" remote="github" revision="rising" />
 
       <!-- blobs for sm8450 kernel -->
-      <project name="Machad3x/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="a14" />
-      <project name="Machad3x/android_kernel_oneplus_sm8450-modules" path="kernel/oneplus/sm8450-modules" remote="github" revision="a14" />
+      <project name="ATI-labs/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="a14" />
+      <project name="ATI-labs/android_kernel_oneplus_sm8450-modules" path="kernel/oneplus/sm8450-modules" remote="github" revision="a14" />
       <project name="ATI-labs/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="lineage-21" />
 
       <!-- blobs for sm8450 vendor -->
-      <project name="ATI-labs/vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="oos-cam" />
+      <project name="ATI-labs/vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="test" />
       <project name="Machad3x/proprietary_vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="a14-staging" />
       <project name="Machad3x/proprietary_vendor_realme_ferrarri" path="vendor/realme/ferrarri" remote="gitlaab" revision="a14" />
 
