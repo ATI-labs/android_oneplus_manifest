@@ -10,15 +10,15 @@
       <!-- blobs for sm8450 kernel -->
       <project name="ATI-labs/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="a14" />
       <project name="ATI-labs/android_kernel_oneplus_sm8450-modules" path="kernel/oneplus/sm8450-modules" remote="github" revision="a14" />
-      <project name="ATI-labs/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="lineage-21" />
+      <project name="ATI-labs/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="a14" />
 
       <!-- blobs for sm8450 vendor -->
-      <project name="ATI-labs/vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="lineage-21" />
-      <project name="ATI-labs/proprietary_vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="lineage-21" />
-      <project name="Machad3x/proprietary_vendor_realme_ferrarri" path="vendor/realme/ferrarri" remote="gitlaab" revision="a14" />
+      <project name="ATI-labs/vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="a14" />
+      <project name="ATI-labs/vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="a14" />
+      <project name="armanati/vendor_realme_ferrarri" path="vendor/realme/ferrarri" remote="gitlaab" revision="fourteen" />
 
       <!-- Oplus hardware -->
-      <project name="ATI-labs/hardware_oplus" path="hardware/oplus" remote="github" revision="rising" />
+      <project name="ATI-labs/hardware_oplus" path="hardware/oplus" remote="github" revision="a14" />
 
       <!-- other blobs -->
       <project name="crdroidandroid/proprietary_vendor_oneplus_camera" path="vendor/oneplus/camera" remote="gitlaab" revision="14.0" />
