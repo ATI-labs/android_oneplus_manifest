@@ -1,6 +1,6 @@
 Installing Repos
 
-        repo init -u https://github.com/ProjectEverest/manifest -b qpr2 --git-lfs
+        repo init -u https://github.com/ProjectEverest/manifest -b qpr3 --git-lfs
 
         git clone https://github.com/ATI-labs/local-manifests.git -b everest .repo/local_manifests/
         
