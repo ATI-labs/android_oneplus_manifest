@@ -8,6 +8,10 @@ sync repo
 
         repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
+you should run this to fix boot problem on oplus sm8450 devices!!!
+
+        bash <(curl -Ls https://raw.githubusercontent.com/ATI-labs/local-manifests/fix/fix.sh)
+
 for oneplus 10pro
         
         . build/envsetup.sh
