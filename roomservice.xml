@@ -23,6 +23,5 @@
       <!-- other blobs -->
       <project name="crdroidandroid/proprietary_vendor_oneplus_camera" path="vendor/oneplus/camera" remote="gitlaab" revision="14.0" />
       <project name="armanati/vendor_GoogleCamera" path="vendor/GoogleCamera" remote="gitlaab" revision="sg" />
-      <project name="ATI-labs/vendor_TrickyStore" path="vendor/TrickyStore" remote="github" revision="main" />
       <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="v4a" />
   </manifest>
