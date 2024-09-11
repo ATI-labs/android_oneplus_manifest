@@ -24,4 +24,6 @@
       <project name="crdroidandroid/proprietary_vendor_oneplus_camera" path="vendor/oneplus/camera" remote="gitlaab" revision="14.0" />
       <project name="armanati/vendor_GoogleCamera" path="vendor/GoogleCamera" remote="gitlaab" revision="sg" />
       <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="v4a" />
+      <project name="yaap/device_qcom_common" path="device/qcom/common" remote="github" revision="fourteen" />
+      <project name="yaosp/vendor_qcom_common" path="vendor/qcom/common" remote="gitlaab" revision="fourteen" />
   </manifest>
