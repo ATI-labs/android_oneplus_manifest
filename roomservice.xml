@@ -14,7 +14,7 @@
     
       <!-- blobs for sm8450 vendor -->
       <project name="ATI-labs/vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="a14" />
-      <project name="ATI-labs/proprietary_vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="a14" />
+      <project name="ATI-labs/vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="a14" />
       <project name="armanati/vendor_realme_ferrarri" path="vendor/realme/ferrarri" remote="gitlaab" revision="fourteen" />
 
       <!-- Oplus hardware -->
