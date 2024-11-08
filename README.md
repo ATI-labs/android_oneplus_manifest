@@ -6,7 +6,7 @@ Installing Repos
         
 sync repo
 
-        repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune -j$(nproc --all) && repo forall -c git lfs pull
+        repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune -j$(nproc --all)
 
 you should run this to fix boot problem on oplus sm8450 devices!!!
 
